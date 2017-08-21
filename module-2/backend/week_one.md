@@ -5,11 +5,11 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 Note: When you're done, submit a PR.
 
 1. List the five common HTTP verbs and what the purpose is of each verb.
-⋅⋅* GET retrieves data (asks the server for a resource)
-⋅⋅* POST is used to submit data (to the server)
-⋅⋅* PUT takes a complete resource and stores it at the given URL. If there was a resource there previously, it is replaced; if not, a new one is created.
-⋅⋅* DELETE destroys the specified resource (on the server)
-⋅⋅* PATCH can be used to update partial resource(s) (on the server)
+  * GET retrieves data (asks the server for a resource)
+  * POST is used to submit data (to the server)
+  * PUT takes a complete resource and stores it at the given URL. If there was a resource there previously, it is replaced; if not, a new one is created.
+  * DELETE destroys the specified resource (on the server)
+  * PATCH can be used to update partial resource(s) (on the server)
 2. What is Sinatra?
 ⋅⋅* Sinatra is a light-weight tool web developers use to build simple and dynamic Ruby web applications.
 4. What is MVC?

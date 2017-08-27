@@ -35,6 +35,9 @@ end
 Now how would you find the owner of the team with an id of 4?
 
 5. In a database that's holding students and teachers, what will be the relationship between students and teachers? Draw the schema diagram.
+
+<img src="http://imgur.com/a/YkBzP>
+          
 6. Define foreign key, primary key, and schema.
   * A foreign key is a field in one table that refers to the primary key in another table. A primary key is the object's `id`. A schema 
 7. Describe the relationship between a foreign key on one table and a primary key on another table.

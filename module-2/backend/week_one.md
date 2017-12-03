@@ -28,6 +28,7 @@ Note: When you're done, submit a PR.
   ```
 
 8. In the same code block, how would I pass a local variable `name` with a value of `Mr. Ed` to the view?
+<<<<<<< HEAD
 
 ```ruby
 get '/horses' do
